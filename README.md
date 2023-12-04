@@ -13,3 +13,8 @@ In addition, I used some packages that support animated UI such as Lottie, ViewA
 - Then
 - Lottie
 - ViewAnimator
+## Output
+
+
+https://github.com/thanhkt99/weather/assets/127722497/59bcfb61-5381-4452-affb-22fc81770f3e
+
